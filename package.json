@@ -1,0 +1,19 @@
+{
+  "name": "googlebook_duckduckgo_dectionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdiu34567/Api-google-book-duckduckGo-dectionary-.git"
+  },
+  "author": "Abdi Urgessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdiu34567/Api-google-book-duckduckGo-dectionary-/issues"
+  },
+  "homepage": "https://github.com/abdiu34567/Api-google-book-duckduckGo-dectionary-#readme"
+}
