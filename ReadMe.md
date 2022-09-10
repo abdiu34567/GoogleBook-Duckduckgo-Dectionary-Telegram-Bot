@@ -1,4 +1,4 @@
-## `Google Book` | `DuckduckGo` | `Dictionary Api` | `Telegram Bot api`
+## 📖 `Google Book` | 📡 `DuckduckGo` | 📄 `Dictionary Api` | 🤖 `Telegram Bot api`
 
 ![API](asset/apis.png)
 
@@ -15,7 +15,7 @@
 
 ```Javascript
 # Search across Google books
-# Dictionary with pronunciation,anonymous,synonymous**
+# Dictionary with pronunciation,anonymous,synonymous and more**
 # Searching Web Pages
 
 >> All IN TELEGRAM BOT
