@@ -1,11 +1,18 @@
-## Google Book | DuckduckGo | Dictionary Api Implemented on
+## `Google Book` | `DuckduckGo` | `Dictionary Api` | `Telegram Bot api`
 
-# Telegram Bot api
+## Usage
 
-## Features
+```javascript
+Open Telegram Web/ Desktop
+Search for @my_trialX_bot
+```
+
+### Features
 
 ```Javascript
-# The Bot Uses Catch Storage To Store Temporary Data
-# User Friendly Registration Of Any Items
-# Searching Items In Great Capacity
+# Search across Google books
+# Dictionary with pronunciation,anonymous,synonymous**
+# Searching Web Pages
+
+>> All IN TELEGRAM BOT
 ```
