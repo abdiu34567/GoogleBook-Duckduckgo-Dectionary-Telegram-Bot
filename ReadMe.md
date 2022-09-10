@@ -1,11 +1,15 @@
 ## `Google Book` | `DuckduckGo` | `Dictionary Api` | `Telegram Bot api`
 
+![API](asset/apis.png)
+
 ## Usage
 
 ```javascript
-Open Telegram Web/ Desktop
-Search for @my_trialX_bot
+#Open Telegram Web/ Desktop
+#Search for @my_trialX_bot
 ```
+
+> https://t.me/my_trialX_bot
 
 ### Features
 
